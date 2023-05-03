@@ -1596,18 +1596,16 @@
   resolved "https://registry.yarnpkg.com/@shopify/polaris-tokens/-/polaris-tokens-6.13.0.tgz#3e636976d18d6a73ba497536fa33daf66d5374fb"
   integrity sha512-HtAmiedTif/Wa56cLpsKTbmLykytg4IhuailCCwr/9Zok6uxydAtRR9L/PIm1e5Zd79p/XQFdruXHTxWWlQnDQ==
 
-"@shopify/polaris@^10.49.1":
-  version "10.49.1"
-  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-10.49.1.tgz#204b3b92541004164a25160c963502bcd4474622"
-  integrity sha512-lD73CapXGBLgG3oOKv8arnsx3ivWVti7s+5BBCqv3tEiNsRv7o+nqz0ZXis8QRDrAl0NXLvZyWB5JGCwLX6hfQ==
+"@shopify/polaris@0.0.0-snapshot-release-20230501165133":
+  version "0.0.0-snapshot-release-20230501165133"
+  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-0.0.0-snapshot-release-20230501165133.tgz#d079eb32e823df6b8105ac1c57b2355644c564a3"
+  integrity sha512-aAMiXUQ1lWmmRnlCZq9DqTfU8sLOKZadF4apxCdX5tYHOWjNhaRENsSyI8YJQzsXHPATgaNadK7Z63B9OhDuOw==
   dependencies:
     "@shopify/polaris-icons" "^6.15.0"
     "@shopify/polaris-tokens" "^6.13.0"
     "@types/react" "^18.0.15"
     "@types/react-dom" "^18.0.6"
     "@types/react-transition-group" "^4.4.2"
-    "@vanilla-extract/css" "^1.11.0"
-    "@vanilla-extract/sprinkles" "^1.6.0"
     react-fast-compare "^3.2.0"
     react-transition-group "^4.4.2"
 
@@ -1895,7 +1893,7 @@
   dependencies:
     "@babel/core" "^7.20.7"
 
-"@vanilla-extract/css@^1.10.0", "@vanilla-extract/css@^1.11.0":
+"@vanilla-extract/css@^1.10.0":
   version "1.11.0"
   resolved "https://registry.yarnpkg.com/@vanilla-extract/css/-/css-1.11.0.tgz#ad285f31e0b0dff0d7a02cab6a2e5c39e5f2ddf3"
   integrity sha512-uohj+8cGWbnrVzTfrjlJeXqdGjH3d3TcscdQxKe3h5bb5QQXTpPSq+c+SeWADIGiZybzcW0CBvZV8jsy1ywY9w==
@@ -1935,11 +1933,6 @@
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@vanilla-extract/private/-/private-1.0.3.tgz#7ec72bc2ff6fe51f9d650f962e8d1989b073690f"
   integrity sha512-17kVyLq3ePTKOkveHxXuIJZtGYs+cSoev7BlP+Lf4916qfDhk/HBjvlYDe8egrea7LNPHKwSZJK/bzZC+Q6AwQ==
-
-"@vanilla-extract/sprinkles@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@vanilla-extract/sprinkles/-/sprinkles-1.6.0.tgz#7b0cdd192f39ff1cea05bd23526961740df52f85"
-  integrity sha512-TDc/bKyYmt6PDd7/39a5HXUa+4mBI9PO0uw0jmxFMqe9EzrFEVevyRsjJ9KGK09ACItvVUotz98LIJTeliCbpQ==
 
 "@web3-storage/multipart-parser@^1.0.0":
   version "1.0.0"
